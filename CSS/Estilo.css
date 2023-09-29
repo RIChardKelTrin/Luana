@@ -24,19 +24,19 @@ section{
 
 }
 h2{
-    font-size: 70%;
+    font-size: 100%;
     text-align:center;
     color:white;
 }
 h3{
-    font-size: 110%;
+    font-size: 150%;
     text-align:center;
     color:white;
 }
 .IMGPrinc{
     border-radius: 75%;
-    width: 30%;
-    height: 30%;
+    width: 65%;
+    height: 65%;
     border: 3px solid white;
     font-size: 10%;
     margin-left: auto;
@@ -140,8 +140,8 @@ li{
 }
 .IMG3{
     border-radius: 2%;
-    width: 45%;
-    height: 45%;
+    width: 60%;
+    height: 60%;
     border: 2px solid white;
     margin-left: auto;
     margin-right: auto;
@@ -149,8 +149,8 @@ li{
 }
 .IMG4{
     border-radius: 2%;
-    width: 70%;
-    height: 70%;
+    width: 75%;
+    height: 75%;
     border: 2px solid white;
     margin-left: auto;
     margin-right: auto;
@@ -160,8 +160,8 @@ li{
     align-items: center;
     padding: 2%;
     border-radius: 10%;
-    width: 60%;
-    height: 60%;
+    width: 75%;
+    height: 75%;
     border: 2px solid white;
     margin-left: auto;
     margin-right: auto;
@@ -208,4 +208,14 @@ h4{
     position: absolute;
     writing-mode: vertical-rl; 
     color:Magenta;
+}
+button{
+    background-color: rgb(255, 255, 255);
+    color: rgba(12, 240, 221, 0.897);
+    width:30%;
+    display: block;
+    border-bottom: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
