@@ -24,19 +24,19 @@ section{
 
 }
 h2{
-    font-size: 100%;
+    font-size: 150%;
     text-align:center;
     color:white;
 }
 h3{
-    font-size: 150%;
+    font-size: 180%;
     text-align:center;
     color:white;
 }
 .IMGPrinc{
     border-radius: 75%;
-    width: 65%;
-    height: 65%;
+    width: 85%;
+    height: 85%;
     border: 3px solid white;
     font-size: 10%;
     margin-left: auto;
@@ -46,7 +46,7 @@ h3{
 .linha-vertical{
     border-left: thick solid white;
     height:690%;
-    left: 1%;
+    left: 0.5%;
     position: absolute;
     writing-mode: vertical-lr; 
     color: Magenta;
@@ -55,7 +55,7 @@ h3{
 .linha-vertical-2{
     border-left: thick solid rgb(238, 236, 236);
     height:690%;
-    right: 1%;
+    right: 0.5%;
     position: absolute;
     writing-mode: vertical-rl; 
     color:Magenta;
