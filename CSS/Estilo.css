@@ -45,7 +45,7 @@ h3{
 }
 .linha-vertical{
     border-left: thick solid white;
-    height:690%;
+    height:1000%;
     left: 0.5%;
     position: absolute;
     writing-mode: vertical-lr; 
@@ -54,7 +54,7 @@ h3{
 }
 .linha-vertical-2{
     border-left: thick solid rgb(238, 236, 236);
-    height:690%;
+    height:1000%;
     right: 0.5%;
     position: absolute;
     writing-mode: vertical-rl; 
