@@ -10,7 +10,7 @@ h1{
 p{
     text-align: center;
     color: rgba(12, 240, 221, 0.897);
-    font-size:100%;
+    font-size:140%;
 }
 section{
     background-color: white;
@@ -191,6 +191,7 @@ h4{
 }
 .aa{
     text-align: center;
+    font-size: 150%;
 }
 .linha-vertical-Produc{
     border-left: thick solid white;
